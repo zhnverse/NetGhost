@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshot.png" alt="NetGhost Globe View" width="100%"/>
+  <img src="demo.gif" alt="NetGhost demo — Globe, Live Feed, Analytics, DNS Log, Privacy, Hunt" width="100%"/>
 </p>
 
 <h1 align="center">👻 NetGhost</h1>
