@@ -2,7 +2,7 @@
 
 A personal network traffic visualizer and threat detector. Captures live packets, plots connections on a 3D rotating globe, flags suspicious activity, and lets you hunt through your traffic history.
 
-![NetGhost Globe](https://raw.githubusercontent.com/zhnverse/NetGhost/main/frontend/src/assets/hero.png)
+![NetGhost Globe](screenshot.png)
 
 ## Features
 
